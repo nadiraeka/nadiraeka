@@ -15,3 +15,7 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint">
 </p>
+
+## Projects
+- [Sentiment Analysis Bale by BTN App Reviews Using IndoBERT](https://github.com/nadiraeka/Sentiment-Analysis-Bale-by-BTN)
+- []()
