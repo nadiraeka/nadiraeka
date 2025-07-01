@@ -19,5 +19,7 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 ## Projects
 - [Sentiment Analysis Bale by BTN App Reviews Using IndoBERT](https://github.com/nadiraeka/Sentiment-Analysis-Bale-by-BTN)
 - [Medicine Recommendation System Using Content-Based Filtering](https://github.com/nadiraeka/Medicine-Recommendation-System)
-- []()
-- []()
+- [Rainfall Prediction Using Machine Learning Algorithms](https://github.com/nadiraeka/Rainfall-Prediction)
+- [Customer Loyalty Analysis Using Multiple Linear Regression](https://github.com/nadiraeka/Customer-Loyalty-Analysis)
+- [Job Search and Recruitment Database System Using Python & SQLite](https://github.com/nadiraeka/Job-Search-and-Recruitment-Database-System)
+- [Dashboard Analysis Airbnb NYC Report Using Tableau](https://github.com/nadiraeka/Dashboard-Analysis-Airbnb-NYC-Report)
