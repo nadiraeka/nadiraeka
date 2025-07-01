@@ -23,3 +23,11 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 - [Customer Loyalty Analysis Using Multiple Linear Regression](https://github.com/nadiraeka/Customer-Loyalty-Analysis)
 - [Job Search and Recruitment Database System Using Python & SQLite](https://github.com/nadiraeka/Job-Search-and-Recruitment-Database-System)
 - [Dashboard Analysis Airbnb NYC Report Using Tableau](https://github.com/nadiraeka/Dashboard-Analysis-Airbnb-NYC-Report)
+
+## Certification
+- Data Analysis - MySkill Specialization, 2025
+![Sertifikat MySkill](https://github.com/user-attachments/assets/c41321c1-4505-41b8-a389-a63142e4d5e2)
+- Data Sciece Academy - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
+![Sertifikat Compfest](https://github.com/user-attachments/assets/00333583-4bb9-4587-b9a2-27788a6cf709)
+- Agen Statistik - Pojok Statistik, 2024
+![Sertifikat Agen Statistik](https://github.com/user-attachments/assets/a10c5309-a66b-4b19-a19b-1cf2fccb47d7)
