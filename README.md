@@ -18,4 +18,6 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 
 ## Projects
 - [Sentiment Analysis Bale by BTN App Reviews Using IndoBERT](https://github.com/nadiraeka/Sentiment-Analysis-Bale-by-BTN)
+- [Medicine Recommendation System Using Content-Based Filtering](https://github.com/nadiraeka/Medicine-Recommendation-System)
+- []()
 - []()
