@@ -25,6 +25,8 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 - [Dashboard Analysis Airbnb NYC Report Using Tableau](https://github.com/nadiraeka/Dashboard-Analysis-Airbnb-NYC-Report)
 
 ## Certification
+- Data Academy Mini Bootcamp - Revou, 2025
+[Setif damc.pdf](https://github.com/user-attachments/files/21033218/Setif.damc.pdf)
 - Data Analysis - MySkill Specialization, 2025
 ![Sertifikat MySkill](https://github.com/user-attachments/assets/c41321c1-4505-41b8-a389-a63142e4d5e2)
 - Data Sciece Academy - COMPFEST 16 Faculty of Computer Science Universitas Indonesia, 2024
