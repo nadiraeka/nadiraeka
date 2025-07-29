@@ -17,6 +17,7 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 </p>
 
 ## Projects
+
 - [Sentiment Analysis Bale by BTN App Reviews Using IndoBERT](https://github.com/nadiraeka/Sentiment-Analysis-Bale-by-BTN)
 - [Medicine Recommendation System Using Content-Based Filtering](https://github.com/nadiraeka/Medicine-Recommendation-System)
 - [Rainfall Prediction Using Machine Learning Algorithms](https://github.com/nadiraeka/Rainfall-Prediction)
@@ -25,6 +26,8 @@ A Third-year Statistics student at Universitas Indonesia with a strong interest 
 - [Dashboard Analysis Airbnb NYC Report Using Tableau](https://github.com/nadiraeka/Dashboard-Analysis-Airbnb-NYC-Report)
 
 ## Certification
+- Data Analyst Associate - DataCamp, 2025
+![Screenshot 2025-07-29 at 21 53 40](https://github.com/user-attachments/assets/ab34823f-9151-4947-bb2f-1e2f5ebdb559)
 - Data Analytics Mini Course - Revou, 2025
 ![Screenshot 2025-07-03 at 15 33 45](https://github.com/user-attachments/assets/a6c65e90-1917-4d35-a1bd-7bb0ff33c0a6)
 - Data Analysis - MySkill Specialization, 2025
