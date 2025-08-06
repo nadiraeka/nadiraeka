@@ -24,6 +24,8 @@ Statistics student at Universitas Indonesia with a strong interest in **Data Ana
 - [Customer Loyalty Analysis Using Multiple Linear Regression](https://github.com/nadiraeka/Customer-Loyalty-Analysis)
 - [Job Search and Recruitment Database System Using Python & SQLite](https://github.com/nadiraeka/Job-Search-and-Recruitment-Database-System)
 - [Dashboard Analysis Airbnb NYC Report Using Tableau](https://github.com/nadiraeka/Dashboard-Analysis-Airbnb-NYC-Report)
+- [Sentiment Analysis E Commerce Product Review Using BERT](https://github.com/nadiraeka/Sentiment-Analysis-E-Commerce-Product-Review)
+- [Sentiment Analysis Public Opinion on Electric Cars in Indonesia Using LSTM](https://github.com/nadiraeka/Sentiment-Analysis-Public-Opinion-on-Electric-Cars-in-Indonesia)
 
 ## Certification
 - Data Analyst Associate - DataCamp, 2025
