@@ -2,7 +2,7 @@
 
 ## About Me
 
-Statistics student at Universitas Indonesia with a strong interest in **Data Analytics and Data Science**. I have worked on various projects and participated in several data competitions that helped me build hands-on experience in analyzing data, developing models, and generating insights. A fast learner with strong analytical skills who enjoy working on data-driven challenges.
+Statistics student at Universitas Indonesia with a strong interest in **Data Analysis and Data Science**. I have worked on various projects and participated in several data competitions that helped me build hands-on experience in analyzing data, developing models, and generating insights. A fast learner with strong analytical skills who enjoy working on data-driven challenges.
 
 ## Skills
 
