@@ -29,9 +29,9 @@ Final year undergraduate Statistics student at Universitas Indonesia with a stro
 
 ## Certification
 - Data Analysis in Excel - DataCamp, 2025
-[certificate-3.pdf](https://github.com/user-attachments/files/25174267/certificate-3.pdf)
+![certificate-3.pdf](https://github.com/user-attachments/files/25174267/certificate-3.pdf)
 - Intermediate SQL - DataCamp, 2025
-[certificate-2.pdf](https://github.com/user-attachments/files/25174263/certificate-2.pdf)
+![certificate-2.pdf](https://github.com/user-attachments/files/25174263/certificate-2.pdf)
 - Data Analyst Associate - DataCamp, 2025
 ![Screenshot 2025-07-29 at 21 53 40](https://github.com/user-attachments/assets/ab34823f-9151-4947-bb2f-1e2f5ebdb559)
 - Data Analytics Mini Course - Revou, 2025
